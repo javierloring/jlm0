@@ -1,0 +1,3 @@
+#Plano de situación.
+#Plano de emplazamiento.
+#Plano de planta general.
