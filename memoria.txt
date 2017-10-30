@@ -1,4 +1,5 @@
 #Memoria Descriptiva.
 #Memoria Justificativa.
 #Memoria Constructiva.
+#Anejo de Cálculos.
 #Estudio Básico de Seguridad y Salud.
