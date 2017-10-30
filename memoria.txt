@@ -2,3 +2,5 @@
 #Memoria Justificativa.
 #Memoria Constructiva.
 #Mediciones y presupuesto.
+#Anejo de Cálculos.
+#Estudio Básico de Seguridad y Salud.
