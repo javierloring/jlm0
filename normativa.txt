@@ -1,0 +1,3 @@
+#Normativa urbanistica aplicable:
+    -Plan General de Ordenación Urbana.
+    -Código Técnico de la Edificación.
